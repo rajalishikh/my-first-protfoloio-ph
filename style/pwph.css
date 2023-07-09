@@ -160,3 +160,29 @@ line-height: normal;
 .section-title{
   margin: 150px;
 }
+/* footer style */
+footer{
+  display: flex;
+  background-color: #FFF8F3;
+  margin-top: 100px;
+  padding: 130px 230px;
+  justify-content: space-between;
+  text-align: center;
+ 
+}
+.footer-colam{
+  width: 50%;
+   padding-right: 80px;
+}
+.contract input[type="text"], .contract input[type="email"], textarea {
+  display: block;
+  padding: 10px 18px;
+  margin: 20px; 
+  color: #757575;
+  border-radius: 5px;
+  background: #FFF8F3;
+  width: 100%;
+ }
+.social-pic a{
+  padding-right: 20px;
+}
