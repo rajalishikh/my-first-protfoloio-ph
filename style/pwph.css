@@ -82,3 +82,38 @@ margin-bottom: 20px;
 .hi{
   max-width: 500px;
 }
+/* main section style  */
+
+/* about section  */
+.about{
+  padding: 130px;
+  border-radius: 10px;
+  background : #f5e5db;
+  margin: 130px 286px ;
+
+}
+.section-title{
+  color:  #181818;
+text-align: center;
+
+font-size: 25px;
+
+font-weight: 700;
+
+}
+.section-details{
+   color: var #757575;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+
+}
+.abouth-container{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.about11{
+  text-align: center;
+}
