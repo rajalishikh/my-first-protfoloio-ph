@@ -132,5 +132,31 @@ line-height: 30px;
   gap: 24px;
   border: 1px solid #f5e5db ;
   margin: 30px;
+  box-shadow: 10px 10px 20px #f5e5db;
 }
-
+/* my resume style  */
+.resume-container1{
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+.resume-colam-tittke{
+  color:  #474747;
+font-family: Open Sans;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.educatione-resume{
+  margin: 50px;
+}
+.resume-colam{
+  margin: 50px;
+}
+.primary-button1{
+ text-align: center;
+}
+.section-title{
+  margin: 150px;
+}
