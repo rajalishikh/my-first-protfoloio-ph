@@ -42,9 +42,10 @@ nav a {
 /* header style section */
 .header{
   background: #FFF8F3;
-  background-image:url(../images/header_bg.png);
+  background-image:url(../images/header_bg.png),url('../images/developer.png') ;
   background-repeat: no-repeat;
-  background-position: bottom right;
+ height: 100vh;
+  background-position: bottom right, top left;
 }
 .baner{
   padding: 30px 30px 0px 150px;
