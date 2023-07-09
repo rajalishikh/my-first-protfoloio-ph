@@ -117,3 +117,20 @@ line-height: 30px;
 .about11{
   text-align: center;
 }
+/* what i do section  */
+#rajwhatido{
+  padding: 30px 150px;
+}
+/* skill related style  */
+.skill-container{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.skill{
+  padding: 30px;
+  gap: 24px;
+  border: 1px solid #f5e5db ;
+  margin: 30px;
+}
+
